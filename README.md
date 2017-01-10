@@ -1,2 +1,2 @@
 # zend-doctrine-demo
-Zend Doctrine Demo
+zend demo with doctrine

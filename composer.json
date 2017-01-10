@@ -1,0 +1,16 @@
+{
+    "name": "vendor/zend-demo",
+    "description": "Description of project zend-demo.",
+    "authors": [
+        {
+            "name": "assistanz",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "2.*",
+        "doctrine/common": "2.*",
+        "doctrine/dbal": "2.*",
+        "zendframework/zendframework1": "1.12.*"
+    }
+}

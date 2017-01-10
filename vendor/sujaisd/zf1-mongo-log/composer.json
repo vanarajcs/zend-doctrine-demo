@@ -1,0 +1,24 @@
+{
+    "name": "sujaisd/zf1-mongo-log",
+    "description": "Zend Framework 1 MongoDB Log Writer",
+    "type": "library",
+    "keywords": [
+        "framework",
+        "zf1",
+        "mongodb"
+    ],
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=5.2.11"
+    },
+    "autoload": {
+        "psr-0": {
+            "Zend_": "library/"
+        }
+    },
+    "include-path": [
+        "library/",
+        "library/Zend/Log/Writer/",
+        "library/Zend/Tool/Project/Provider/"
+    ]
+}
